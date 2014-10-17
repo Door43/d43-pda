@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pda:home|Door43 (pda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pda|d43-pda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pda/archive/master.zip|d43-pda.zip]]
+
+**Recent Changes**
+{{changes>ns = pda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pda|Ethnologue data]]
+
